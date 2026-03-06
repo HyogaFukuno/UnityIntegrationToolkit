@@ -1,0 +1,24 @@
+{
+    "name": "R3..InputSystem",
+    "rootNamespace": "R3..InputSystem",
+    "references": [
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.r3",
+            "expression": "1.0.0",
+            "define": "ENABLE_R3_INPUT_SYSTEM_EXTENSIONS"
+        }
+    ],
+    "noEngineReferences": false
+}
