@@ -1,0 +1,9 @@
+{
+    "name": "com.glacier.unityintegrationtoolkit",
+    "displayName": "Unity Integration Toolkit",
+    "author": { "name": "Hyouga" },
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "license": "MIT",
+    "category": "Scripting"
+}
