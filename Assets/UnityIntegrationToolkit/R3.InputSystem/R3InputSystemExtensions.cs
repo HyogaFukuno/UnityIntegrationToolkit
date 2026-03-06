@@ -31,7 +31,7 @@ namespace R3.InputSystem
                 ct);
         }
         
-        public static Observable<InputAction.CallbackContext> CallbacksAsObservable(this InputAction inputAction, CancellationToken ct = default)
+        public static Observable<InputAction.CallbackContext> AsObservable(this InputAction inputAction, CancellationToken ct = default)
         {
             return Observable.FromEvent<InputAction.CallbackContext>(
                 h =>
